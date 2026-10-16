@@ -1,0 +1,50 @@
+{
+  "show": "MTV Roadies",
+  "season": 21,
+  "seasonTitle": "Roadies REBIRTH",
+  "note": "Starter data only. Verify episode titles, dates, and availability before publishing. Replace these sample records with confirmed episodes. Official platform links are provider landing pages, not direct episode streams.",
+  "episodes": [
+    {
+      "id": "episode-1",
+      "number": 1,
+      "title": "Episode 1 — Let the Auditions Begin!",
+      "releaseDate": "2026-10-16",
+      "duration": "",
+      "description": "A new era of Roadies begins. Confirm the episode details and regional availability on an official streaming platform.",
+      "verified": false,
+      "officialLinks": [
+        {
+          "name": "Watch on Netflix",
+          "url": "https://www.netflix.com/gy/title/83164037",
+          "className": "official-button"
+        },
+        {
+          "name": "Check JioHotstar",
+          "url": "https://www.jiohotstar.com/",
+          "className": "official-button secondary"
+        }
+      ]
+    },
+    {
+      "id": "episode-2",
+      "number": 2,
+      "title": "Episode 2 — Details to be confirmed",
+      "releaseDate": "",
+      "duration": "",
+      "description": "This is a placeholder card. Update the title, release date, synopsis, and official links when verified.",
+      "verified": false,
+      "officialLinks": [
+        {
+          "name": "Watch on Netflix",
+          "url": "https://www.netflix.com/gy/title/83164037",
+          "className": "official-button"
+        },
+        {
+          "name": "Check JioHotstar",
+          "url": "https://www.jiohotstar.com/",
+          "className": "official-button secondary"
+        }
+      ]
+    }
+  ]
+}
