@@ -1,0 +1,29 @@
+
+{
+  "site": "MTV Roadies",
+  "season": "Current Season",
+  "episodes": [
+    {
+      "id": "episode-1",
+      "episode_number": 1,
+      "title": "Episode 1",
+      "description": "Add the episode description here.",
+      "thumbnail": "https://example.com/episode-1.jpg",
+      "release_date": "2026-10-10",
+      "duration": "",
+      "watch_url": "https://www.jiohotstar.com/",
+      "status": "available"
+    },
+    {
+      "id": "episode-2",
+      "episode_number": 2,
+      "title": "Episode 2",
+      "description": "Add the episode description here.",
+      "thumbnail": "https://example.com/episode-2.jpg",
+      "release_date": "2026-10-17",
+      "duration": "",
+      "watch_url": "https://www.jiohotstar.com/",
+      "status": "available"
+    }
+  ]
+}
