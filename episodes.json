@@ -10,7 +10,14 @@
       "thumbnail": "https://i.ytimg.com/vi/DnPdSzpGgLs/hqdefault.jpg",
       "release_date": "2026-10-16",
       "status": "available",
-      "embed_url": "https://upbolt.to/emb-aq3bvdp3tp31"
+      "iframe_links": [
+    {
+      "label": "Player 1",
+      "url": "https://upbolt.to/emb-aq3bvdp3tp31"
+    },
+    {
+      "label": "Player 2",
+      "url": "https://vkspeed.com/embed-zsvbypublu79.html"
     },
     {
       "id": "episode-2",
