@@ -1,4 +1,3 @@
-
 {
   "site": "MTV Roadies",
   "season": "Roadies Rebirth",
@@ -6,18 +5,20 @@
     {
       "id": "episode-1",
       "episode_number": 1,
-      "title": " Ep 1 | MTV Roadies Rebirth | Full Episode",
+      "title": "Ep 1 | MTV Roadies Rebirth | Full Episode",
       "thumbnail": "https://i.ytimg.com/vi/DnPdSzpGgLs/hqdefault.jpg",
       "release_date": "2026-10-16",
       "status": "available",
       "iframe_links": [
-    {
-      "label": "Player 1",
-      "url": "https://upbolt.to/emb-aq3bvdp3tp31"
-    },
-    {
-      "label": "Player 2",
-      "url": "https://vkspeed.com/embed-zsvbypublu79.html"
+        {
+          "label": "Player 1",
+          "url": "https://upbolt.to/emb-aq3bvdp3tp31"
+        },
+        {
+          "label": "Player 2",
+          "url": "https://vkspeed.com/embed-zsvbypublu79.html"
+        }
+      ]
     },
     {
       "id": "episode-2",
@@ -26,7 +27,20 @@
       "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcjH3KAZu7eCYk1idExHdWsxwfv0pUHKd1rr7knIUtOKz-qlpPRpodzI&s=10",
       "release_date": "2026-10-17",
       "status": "available",
-      "embed_url": "https://authorized-provider.com/embed/episode13"
+      "iframe_links": [
+        {
+          "label": "Player 1",
+          "url": "https://upbolt.to/emb-bv1b2zskva8d"
+        },
+        {
+          "label": "Player 2",
+          "url": "https://vkspeed.com/embed-xkurwlnvxsh7.html"
+        },
+        {
+          "label": "Player 3",
+          "url": "https://vkprime.com/embed-kpje3a26hr78.html"
+        }
+      ]
     }
   ]
 }
