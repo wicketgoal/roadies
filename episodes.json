@@ -1,14 +1,13 @@
 
 {
   "site": "MTV Roadies",
-  "season": "Current Season",
+  "season": "Roadies Rebirth",
   "episodes": [
     {
       "id": "episode-1",
       "episode_number": 1,
       "title": "Episode 1",
-      "description": "Add the episode description here.",
-      "thumbnail": "https://example.com/episode-1.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/DnPdSzpGgLs/hqdefault.jpg",
       "release_date": "2026-10-10",
       "duration": "",
       "watch_url": "https://www.jiohotstar.com/",
@@ -18,8 +17,7 @@
       "id": "episode-2",
       "episode_number": 2,
       "title": "Episode 2",
-      "description": "Add the episode description here.",
-      "thumbnail": "https://example.com/episode-2.jpg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcjH3KAZu7eCYk1idExHdWsxwfv0pUHKd1rr7knIUtOKz-qlpPRpodzI&s=10",
       "release_date": "2026-10-17",
       "duration": "",
       "watch_url": "https://www.jiohotstar.com/",
