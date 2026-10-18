@@ -41,6 +41,52 @@
           "url": "https://vkprime.com/embed-kpje3a26hr78.html"
         }
       ]
+    },
+
+     {
+      "id": "episode-3",
+      "episode_number": 3,
+      "title": "Ep 3 | MTV Roadies Rebirth | Full Episode",
+      "thumbnail": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2026/09/28114028/roadies-feature.jpg?tr=w-1200,h-900",
+      "release_date": "2026-10-23",
+      "status": "available",
+      "iframe_links": [
+        {
+          "label": "Player 1",
+          "url": "https://media.istockphoto.com/id/1444320417/vector/video-coming-soon-loading-page-no-video-clip-no-footage-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=dM4cOuEAk7BeXRUaXVXrjnbQP_ICYApTNEuakORESd0="
+        },
+        {
+          "label": "Player 2",
+          "url": "https://media.istockphoto.com/id/1444320417/vector/video-coming-soon-loading-page-no-video-clip-no-footage-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=dM4cOuEAk7BeXRUaXVXrjnbQP_ICYApTNEuakORESd0="
+        },
+        {
+          "label": "Player 3",
+          "url": "https://media.istockphoto.com/id/1444320417/vector/video-coming-soon-loading-page-no-video-clip-no-footage-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=dM4cOuEAk7BeXRUaXVXrjnbQP_ICYApTNEuakORESd0="
+        }
+      ]
+    },
+
+     {
+      "id": "episode-4",
+      "episode_number": 4,
+      "title": "Ep 4 | MTV Roadies Rebirth | Full Episode",
+      "thumbnail": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2026/09/28114028/roadies-feature.jpg?tr=w-1200,h-900",
+      "release_date": "2026-10-24",
+      "status": "available",
+      "iframe_links": [
+        {
+          "label": "Player 1",
+          "url": "https://media.istockphoto.com/id/1444320417/vector/video-coming-soon-loading-page-no-video-clip-no-footage-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=dM4cOuEAk7BeXRUaXVXrjnbQP_ICYApTNEuakORESd0="
+        },
+        {
+          "label": "Player 2",
+          "url": "https://media.istockphoto.com/id/1444320417/vector/video-coming-soon-loading-page-no-video-clip-no-footage-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=dM4cOuEAk7BeXRUaXVXrjnbQP_ICYApTNEuakORESd0="
+        },
+        {
+          "label": "Player 3",
+          "url": "https://media.istockphoto.com/id/1444320417/vector/video-coming-soon-loading-page-no-video-clip-no-footage-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=dM4cOuEAk7BeXRUaXVXrjnbQP_ICYApTNEuakORESd0="
+        }
+      ]
     }
   ]
 }
