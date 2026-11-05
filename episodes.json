@@ -64,7 +64,75 @@
           "url": "https://media.istockphoto.com/id/1444320417/vector/video-coming-soon-loading-page-no-video-clip-no-footage-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=dM4cOuEAk7BeXRUaXVXrjnbQP_ICYApTNEuakORESd0="
         }
       ]
+    },
+
+    {
+      "id": "episode-4",
+      "episode_number": 4,
+      "title": "Ep 4 | MTV Roadies Rebirth | Full Episode",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcjH3KAZu7eCYk1idExHdWsxwfv0pUHKd1rr7knIUtOKz-qlpPRpodzI&s=10",
+      "release_date": "2026-10-24",
+      "status": "available",
+      "iframe_links": [
+        {
+          "label": "Player 1",
+          "url": "https://upbolt.to/emb-bv1b2zskva8d"
+        },
+        {
+          "label": "Player 2",
+          "url": "https://vkspeed.com/embed-xkurwlnvxsh7.html"
+        },
+        {
+          "label": "Player 3",
+          "url": "https://vkprime.com/embed-kpje3a26hr78.html"
+        }
+      ]
+    },
+
+    {
+      "id": "episode-5",
+      "episode_number": 5,
+      "title": "Ep 5 | MTV Roadies Rebirth | Full Episode",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcjH3KAZu7eCYk1idExHdWsxwfv0pUHKd1rr7knIUtOKz-qlpPRpodzI&s=10",
+      "release_date": "2026-10-30",
+      "status": "available",
+      "iframe_links": [
+        {
+          "label": "Player 1",
+          "url": "https://upbolt.to/emb-bv1b2zskva8d"
+        },
+        {
+          "label": "Player 2",
+          "url": "https://vkspeed.com/embed-xkurwlnvxsh7.html"
+        },
+        {
+          "label": "Player 3",
+          "url": "https://vkprime.com/embed-kpje3a26hr78.html"
+        }
+      ]
+    },
+
+    {
+      "id": "episode-6",
+      "episode_number": 6,
+      "title": "Ep 6 | MTV Roadies Rebirth | Full Episode",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQcjH3KAZu7eCYk1idExHdWsxwfv0pUHKd1rr7knIUtOKz-qlpPRpodzI&s=10",
+      "release_date": "2026-10-31",
+      "status": "available",
+      "iframe_links": [
+        {
+          "label": "Player 1",
+          "url": "https://upbolt.to/emb-bv1b2zskva8d"
+        },
+        {
+          "label": "Player 2",
+          "url": "https://vkspeed.com/embed-xkurwlnvxsh7.html"
+        },
+        {
+          "label": "Player 3",
+          "url": "https://vkprime.com/embed-kpje3a26hr78.html"
+        }
+      ]
     }
-  
   ]
 }
