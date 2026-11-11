@@ -156,6 +156,29 @@
           "url": "https://upbolt.to/emb-vejo3utknv6u"
         }
       ]
+    },
+
+    {
+      "id": "episode-8",
+      "episode_number": 8,
+      "title": "Ep 8 | MTV Roadies Rebirth | Full Episode",
+      "thumbnail": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2026/09/28114028/roadies-feature.jpg?tr=w-1200,h-900",
+      "release_date": "2026-11-07",
+      "status": "available",
+      "iframe_links": [
+        {
+          "label": "Player 1",
+          "url": "https://upbolt.to/emb-eg0ybrdx32kk"
+        },
+        {
+          "label": "Player 2",
+          "url": "https://vkspeed.com/embed-yhibdwxuu4dj.html"
+        },
+        {
+          "label": "Player 3",
+          "url": "https://vkspeed.com/embed-yhibdwxuu4dj.html"
+        }
+      ]
     }
   ]
 }
