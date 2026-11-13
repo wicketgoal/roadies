@@ -202,6 +202,30 @@
           "url": "https://vishi.se/jvidara.php?id=NjrihWQ5LeUS"
         }
       ]
+    }, 
+    
+    {
+      "id": "episode-10",
+      "episode_number": 10,
+      "title": "Ep 10 | MTV Roadies Rebirth | Full Episode",
+      "thumbnail": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2026/09/28114028/roadies-feature.jpg?tr=w-1200,h-900",
+      "release_date": "2026-11-07",
+      "status": "available",
+      "iframe_links": [
+        {
+          "label": "Player 1",
+          "url": "https://upbolt.to/emb-9gi2c5s5n6cf"
+        },
+        {
+          "label": "Player 2",
+          "url": "https://vkspeed.com/embed-30eeejc6ejau.html"
+        },
+        {
+          "label": "Player 3",
+          "url": "https://vishi.se/jvidara.php?id=NjrihWQ5LeUS"
+        }
+      ]
     }
+  
   ]
 }
